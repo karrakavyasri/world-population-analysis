@@ -10,3 +10,4 @@ This project shows world population data using Python and Matplotlib.
 ## Output
 Displays population graphs on one screen# world-population-analysis
 World population visualization using Python
+![Output](output.png)
